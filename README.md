@@ -28,7 +28,7 @@ This is a solution to the [Testimonials Grid Section](https://www.frontendmentor
 ### Links
 
 - Solution URL: [GitHub Code](https://github.com/Dayne2x/Social-Proof-Section)
-- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Single-Price-Grid-Component/)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
